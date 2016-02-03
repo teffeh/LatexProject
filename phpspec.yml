@@ -1,0 +1,6 @@
+suites:
+latex_suite:
+namespace: Latex
+psr0_prefix: Latex
+src_path: Latex/src
+spec_path: Latex/src
