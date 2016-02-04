@@ -8,6 +8,11 @@ class Statement
   var $rArgs = array();
   var $tempCount = 0;
 
+  /**
+   * @param string $command
+   * @param array null $oArgs
+   * @param array null $rArgs
+   */
   public function __construct($command, $oArgs = null, $rArgs = null) {
     $this->command = $command;
     $this->rArgs = $rArgs;
