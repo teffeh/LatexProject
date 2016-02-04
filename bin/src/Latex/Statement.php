@@ -6,7 +6,6 @@ class Statement
   var $command;
   var $oArgs = array();
   var $rArgs = array();
-  var $tempCount = 0;
 
   /**
    * @param string $command
