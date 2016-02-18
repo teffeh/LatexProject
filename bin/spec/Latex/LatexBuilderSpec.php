@@ -39,4 +39,5 @@ class LatexBuilderSpec extends ObjectBehavior
     $statement = new Statement("documentclass", ["12pt"], ["article"]);
     $this->beginTag($statement)->shouldReturn('\documentclass[12pt]{article}');
   }
+
 }
