@@ -4,14 +4,12 @@ include "bin/src/Latex/Statement.php";
 include "bin/src/Latex/FileBuilder.php";
 use Latex\FileBuilder;
 use Latex\LatexBuilder;
-
 $latexbuilder = new LatexBuilder();
-$fileBuilder = new FileBuilder();
-$fileBuilder->convert("temp.tex");
+$filebuilder = new FileBuilder("test1.tex", "\\documentclass[12pt]{article}\\begin{document}test2\\end{document}");
+echo $filebuilder->convert();
 ?>
+
 <!doctype html>
 <html>
-<form action = "">
-  <input type = "submit" value="convert document"/>
-</form>
+
 </html>

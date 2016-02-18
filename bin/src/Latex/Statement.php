@@ -38,7 +38,7 @@ class Statement
    * @return mixed
    */
   public function buildCommand() {
-    return $this->command;
+    return '\\' . $this->command;
   }
 
   /**

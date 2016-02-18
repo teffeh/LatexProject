@@ -2,3 +2,103 @@
 2016-02-18 14:20:41,081Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\output"
 2016-02-18 14:20:41,081Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
 2016-02-18 14:20:41,081Z FATAL pdflatex - Line: 438
+2016-02-18 18:34:30,710Z FATAL pdflatex - Invalid argument
+2016-02-18 18:34:30,710Z FATAL pdflatex - Info: 
+2016-02-18 18:34:30,710Z FATAL pdflatex - Source: libraries\miktex\texandfriends\include\miktex\c4p\C4P.h
+2016-02-18 18:34:30,710Z FATAL pdflatex - Line: 586
+2016-02-18 18:49:38,380Z FATAL pdflatex - Invalid argument
+2016-02-18 18:49:38,380Z FATAL pdflatex - Info: 
+2016-02-18 18:49:38,380Z FATAL pdflatex - Source: libraries\miktex\texandfriends\include\miktex\c4p\C4P.h
+2016-02-18 18:49:38,380Z FATAL pdflatex - Line: 586
+2016-02-18 18:56:25,062Z FATAL pdflatex - Invalid argument
+2016-02-18 18:56:25,062Z FATAL pdflatex - Info: 
+2016-02-18 18:56:25,062Z FATAL pdflatex - Source: libraries\miktex\texandfriends\include\miktex\c4p\C4P.h
+2016-02-18 18:56:25,062Z FATAL pdflatex - Line: 586
+2016-02-18 19:57:32,182Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 19:57:32,209Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\output"
+2016-02-18 19:57:32,209Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 19:57:32,209Z FATAL pdflatex - Line: 438
+2016-02-18 20:05:41,726Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 20:05:41,726Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\test2.tex"
+2016-02-18 20:05:41,726Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:05:41,726Z FATAL pdflatex - Line: 438
+2016-02-18 20:10:25,868Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 20:10:25,869Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 20:10:25,869Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:10:25,869Z FATAL pdflatex - Line: 438
+2016-02-18 20:11:09,503Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 20:11:09,503Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 20:11:09,503Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:11:09,503Z FATAL pdflatex - Line: 438
+2016-02-18 20:19:26,735Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-02-18 20:19:26,735Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\test2.tex"
+2016-02-18 20:19:26,735Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:19:26,735Z FATAL pdflatex - Line: 311
+2016-02-18 20:20:08,935Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-02-18 20:20:08,935Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\test2.tex"
+2016-02-18 20:20:08,935Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:20:08,935Z FATAL pdflatex - Line: 311
+2016-02-18 20:21:31,609Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-02-18 20:21:31,609Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\test2.tex"
+2016-02-18 20:21:31,609Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 20:21:31,609Z FATAL pdflatex - Line: 311
+2016-02-18 20:33:23,382Z FATAL pdflatex - The command line options could not be processed.
+2016-02-18 20:33:23,383Z FATAL pdflatex - Info: optionError="unknown option"
+2016-02-18 20:33:23,383Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\webapp.cpp
+2016-02-18 20:33:23,383Z FATAL pdflatex - Line: 270
+2016-02-18 20:35:12,742Z FATAL pdflatex - The command line options could not be processed.
+2016-02-18 20:35:12,743Z FATAL pdflatex - Info: optionError="unknown option"
+2016-02-18 20:35:12,743Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\webapp.cpp
+2016-02-18 20:35:12,743Z FATAL pdflatex - Line: 270
+2016-02-18 21:15:06,672Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:15:06,672Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:15:06,672Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:15:06,673Z FATAL pdflatex - Line: 438
+2016-02-18 21:15:25,088Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:15:25,088Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:15:25,088Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:15:25,088Z FATAL pdflatex - Line: 438
+2016-02-18 21:17:24,393Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:17:24,394Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:17:24,394Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:17:24,394Z FATAL pdflatex - Line: 438
+2016-02-18 21:17:35,020Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:17:35,020Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:17:35,020Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:17:35,020Z FATAL pdflatex - Line: 438
+2016-02-18 21:18:46,049Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:18:46,049Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:18:46,049Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:18:46,049Z FATAL pdflatex - Line: 438
+2016-02-18 21:18:59,745Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:18:59,745Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:18:59,745Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:18:59,745Z FATAL pdflatex - Line: 438
+2016-02-18 21:23:56,539Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:23:56,540Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:23:56,540Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:23:56,540Z FATAL pdflatex - Line: 438
+2016-02-18 21:24:32,908Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:24:32,908Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:24:32,908Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:24:32,908Z FATAL pdflatex - Line: 438
+2016-02-18 21:25:00,294Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:25:00,294Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:25:00,294Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:25:00,294Z FATAL pdflatex - Line: 438
+2016-02-18 21:26:15,261Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:26:15,261Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:26:15,261Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:26:15,261Z FATAL pdflatex - Line: 438
+2016-02-18 21:27:13,936Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:27:13,936Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:27:13,936Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:27:13,936Z FATAL pdflatex - Line: 438
+2016-02-18 21:31:29,790Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:31:29,790Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:31:29,791Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:31:29,791Z FATAL pdflatex - Line: 438
+2016-02-18 21:31:48,318Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 21:31:48,318Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
+2016-02-18 21:31:48,318Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 21:31:48,318Z FATAL pdflatex - Line: 438
