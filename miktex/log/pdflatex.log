@@ -1,0 +1,4 @@
+2016-02-18 14:20:41,080Z FATAL pdflatex - The specified output directory does not exist.
+2016-02-18 14:20:41,081Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\output"
+2016-02-18 14:20:41,081Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-02-18 14:20:41,081Z FATAL pdflatex - Line: 438
