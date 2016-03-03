@@ -102,3 +102,23 @@
 2016-02-18 21:31:48,318Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\test2.tex"
 2016-02-18 21:31:48,318Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
 2016-02-18 21:31:48,318Z FATAL pdflatex - Line: 438
+2016-03-03 20:09:11,041Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-03-03 20:09:11,066Z FATAL pdflatex - Info: directory="/Output"
+2016-03-03 20:09:11,066Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:09:11,071Z FATAL pdflatex - Line: 311
+2016-03-03 20:10:59,936Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-03-03 20:10:59,936Z FATAL pdflatex - Info: directory="\Output"
+2016-03-03 20:10:59,936Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:10:59,936Z FATAL pdflatex - Line: 311
+2016-03-03 20:12:43,221Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-03-03 20:12:43,221Z FATAL pdflatex - Info: directory="E:\Work\php\LatexProject\Output\article.tex.aux"
+2016-03-03 20:12:43,222Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:12:43,222Z FATAL pdflatex - Line: 311
+2016-03-03 20:13:45,092Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-03-03 20:13:45,092Z FATAL pdflatex - Info: directory="E:/Work\php\LatexProject\Output\article.tex.aux"
+2016-03-03 20:13:45,092Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:13:45,092Z FATAL pdflatex - Line: 311
+2016-03-03 20:15:04,478Z FATAL pdflatex - The specified auxiliary directory does not exist.
+2016-03-03 20:15:04,478Z FATAL pdflatex - Info: directory="E:/Work\php\LatexProject\Output\article.tex.aux"
+2016-03-03 20:15:04,478Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:15:04,478Z FATAL pdflatex - Line: 311
