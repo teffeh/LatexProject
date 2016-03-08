@@ -1,12 +1,11 @@
 <?php
-
 namespace Latex;
 class Statement
 {
   var $command;
   var $oArgs = array();
-    var $rArgs = array();
-    var $tempCount = 0;
+  var $rArgs = array();
+  var $tempCount = 0;
 
   /**
    * @param string $command
@@ -28,24 +27,17 @@ class Statement
   }
 
   /**
+   * @return mixed
+   */
+  public function buildCommand() {
+    return '\\' . $this->command;
+  }
+
+  /**
    * @return string
    */
   private function buildCommandWithBothArgs() {
     return $this->buildCommand() . $this->buildOptionalArgs() . $this->buildReqArgs();
-  }
-
-  /**
-   * @return mixed
-   */
-  public function buildCommand() {
-    return $this->command;
-  }
-
-  /**
-   * @return string
-   */
-  private function buildOptionalArgs() {
-    return '[' . $this->buildArguments($this->oArgs) . ']';
   }
 
   /**
@@ -59,6 +51,20 @@ class Statement
     }
 
     return $items;
+  }
+
+  /**
+   * @return string
+   */
+  private function buildOptionalArgs() {
+    return '[' . $this->buildArguments($this->oArgs) . ']';
+  }
+
+  /**
+   * @return string
+   */
+  private function buildReqArgs() {
+    return "{" . $this->buildArguments($this->rArgs) . "}";
   }
 
   /**
@@ -77,13 +83,6 @@ class Statement
     $this->tempCount = 0;
 
     return $item;
-  }
-
-  /**
-   * @return string
-   */
-  private function buildReqArgs() {
-    return "{" . $this->buildArguments($this->rArgs) . "}";
   }
 
   /**

@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.18)  18 FEB 2016 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.18)  3 MAR 2016 20:08
 entering extended mode
-**temp.tex
+**E:\Work\php\LatexProject\Output\article.tex-output-directory=\Output
 
 ! Emergency stop.
-<*> temp.tex
-            
+<*> E:\Work
+           \php\LatexProject\Output\article.tex-output-directory=\Output
 End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 2 strings out of 493634
- 14 string characters out of 3145036
+ 0 strings out of 493634
+ 2 string characters out of 3145036
  52604 words of memory out of 3000000
  3491 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000

@@ -1,6 +1,7 @@
 <?php
 
 namespace spec\Latex;
+use Latex\FileBuilder;
 use Latex\Statement;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;

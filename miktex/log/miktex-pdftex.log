@@ -1,0 +1,8 @@
+2016-03-03 20:40:45,834Z FATAL miktex-pdftex - The specified auxiliary directory does not exist.
+2016-03-03 20:40:45,834Z FATAL miktex-pdftex - Info: directory="E:/Work\php\LatexProject\Output]"
+2016-03-03 20:40:45,834Z FATAL miktex-pdftex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:40:45,834Z FATAL miktex-pdftex - Line: 311
+2016-03-03 20:40:55,878Z FATAL miktex-pdftex - The specified auxiliary directory does not exist.
+2016-03-03 20:40:55,878Z FATAL miktex-pdftex - Info: directory="E:/Work\php\LatexProject\Output]"
+2016-03-03 20:40:55,878Z FATAL miktex-pdftex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-03 20:40:55,879Z FATAL miktex-pdftex - Line: 311
