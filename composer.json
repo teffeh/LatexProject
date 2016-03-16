@@ -5,5 +5,8 @@
     "config": {
         "bin-dir": "bin"
     },
-    "autoload": {"psr-0": {"": "bin/src"}}
+    "autoload": {"psr-0": {"": "bin/src"}},
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    }
 }
