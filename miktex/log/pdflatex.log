@@ -122,3 +122,47 @@
 2016-03-03 20:15:04,478Z FATAL pdflatex - Info: directory="E:/Work\php\LatexProject\Output\article.tex.aux"
 2016-03-03 20:15:04,478Z FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
 2016-03-03 20:15:04,478Z FATAL pdflatex - Line: 311
+2016-03-31 16:31:58,712+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:31:58,720+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:31:58,720+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:31:58,720+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:32:55,618+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:32:55,618+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:32:55,619+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:32:55,619+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:35:21,261+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:35:21,261+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:35:21,262+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:35:21,262+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:36:11,464+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:36:11,464+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:36:11,464+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:36:11,464+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:39:21,382+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:39:21,382+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:39:21,382+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:39:21,382+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:43:30,559+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:43:30,559+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:43:30,560+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:43:30,560+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:44:06,847+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:44:06,847+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:44:06,847+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:44:06,847+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:44:53,993+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:44:53,993+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:44:53,993+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:44:53,993+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:45:01,619+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:45:01,619+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:45:01,619+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:45:01,619+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:48:08,879+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:48:08,879+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:48:08,879+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:48:08,879+0100 FATAL pdflatex - Line: 438
+2016-03-31 16:48:27,895+0100 FATAL pdflatex - The specified output directory does not exist.
+2016-03-31 16:48:27,896+0100 FATAL pdflatex - Info: directory="\Output"
+2016-03-31 16:48:27,896+0100 FATAL pdflatex - Source: Libraries\MiKTeX\TeXAndFriends\texmfapp.cpp
+2016-03-31 16:48:27,896+0100 FATAL pdflatex - Line: 438
