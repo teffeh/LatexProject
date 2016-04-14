@@ -13,12 +13,12 @@ class FileBuilder
     {
         $this->name = $name . ".tex";
         $this->input = $input;
-        $this->saveFile();
+//        $this->saveFile();
     }
 
     public function saveFile()
     {
-        file_put_contents('Output/' . $this->name, $this->input);
+        file_put_contents('Output/' . $this->name, $this->input, LOCK_EX);
     }
 
     public function loadFile($file)
